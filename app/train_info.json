@@ -1,0 +1,63 @@
+{
+    "trains": [
+      {
+        "trainNumber": "12951",
+        "trainName": "12951 NDLS TEJAS RAJ",
+        "runningDays": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"],
+        "stations": [
+          {"stationName": "Mumbai Central", "stationCode": "MMCT", "arrivalTime": "05:00"},
+          {"stationName": "Borivali", "stationCode": "BVI", "arrivalTime": "05:35"},
+          {"stationName": "Surat", "stationCode": "ST", "arrivalTime": "08:00"},
+          {"stationName": "Vadodara", "stationCode": "BRC", "arrivalTime": "09:45"},
+          {"stationName": "Ratlam", "stationCode": "RTM", "arrivalTime": "12:15"},
+          {"stationName": "Nagda", "stationCode": "NAD", "arrivalTime": "13:00"},
+          {"stationName": "Kota", "stationCode": "KOTA", "arrivalTime": "14:45"},
+          {"stationName": "New Delhi", "stationCode": "NDLS", "arrivalTime": "19:35"}
+        ]
+      },
+      {
+        "trainNumber": "22435",
+        "trainName": "22435 VANDE BHARAT EX",
+        "runningDays": ["Mon", "Tue", "Wed", "Fri", "Sat", "Sun"],
+        "stations": [
+          {"stationName": "Varanasi", "stationCode": "BSB", "arrivalTime": "06:00"},
+          {"stationName": "Prayagraj", "stationCode": "PRYJ", "arrivalTime": "08:00"},
+          {"stationName": "Kanpur", "stationCode": "CNB", "arrivalTime": "10:00"},
+          {"stationName": "New Delhi", "stationCode": "NDLS", "arrivalTime": "14:00"}
+        ]
+      },
+      {
+        "trainNumber": "12002",
+        "trainName": "12002 SHATABDI EXPRES",
+        "runningDays": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"],
+        "stations": [
+          {"stationName": "New Delhi", "stationCode": "NDLS", "arrivalTime": "06:00"},
+          {"stationName": "Mathura", "stationCode": "MTJ", "arrivalTime": "07:25"},
+          {"stationName": "Agra Cantt", "stationCode": "AGC", "arrivalTime": "08:00"},
+          {"stationName": "Dhaulpur", "stationCode": "DHO", "arrivalTime": "08:45"},
+          {"stationName": "Morena", "stationCode": "MRA", "arrivalTime": "09:15"},
+          {"stationName": "Gwalior", "stationCode": "GWL", "arrivalTime": "09:45"},
+          {"stationName": "Jhansi", "stationCode": "JHS", "arrivalTime": "11:00"},
+          {"stationName": "Lalitpur", "stationCode": "LAR", "arrivalTime": "12:00"},
+          {"stationName": "Bina", "stationCode": "BINA", "arrivalTime": "13:15"},
+          {"stationName": "Bhopal", "stationCode": "BPL", "arrivalTime": "15:00"},
+          {"stationName": "Rani Kamlapati", "stationCode": "RKMP", "arrivalTime": "15:20"}
+        ]
+      },
+      {
+        "trainNumber": "12594",
+        "trainName": "12594 LJN GARIBRATH",
+        "runningDays": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat"],
+        "stations": [
+          {"stationName": "Bhopal Jn", "stationCode": "BPL", "arrivalTime": "06:00"},
+          {"stationName": "Vidisha", "stationCode": "BHS", "arrivalTime": "06:35"},
+          {"stationName": "Bina Jn", "stationCode": "BINA", "arrivalTime": "07:30"},
+          {"stationName": "Jhansi", "stationCode": "JHS", "arrivalTime": "09:30"},
+          {"stationName": "Orai", "stationCode": "ORAI", "arrivalTime": "11:00"},
+          {"stationName": "Kanpur Central", "stationCode": "CNB", "arrivalTime": "13:00"},
+          {"stationName": "Lucknow", "stationCode": "LJN", "arrivalTime": "15:00"}
+        ]
+      }
+    ]
+  }
+  
