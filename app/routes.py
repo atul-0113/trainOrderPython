@@ -180,8 +180,8 @@ def get_delivery_boys():
 
 # UPDATE STATUS OF ORDER
 @order_routes.route('/updateOrderStatus', methods=['POST'])
-@jwt_required()
-@cross_origin(origins="http://127.0.0.1:3000", supports_credentials=True)
+# @jwt_required()
+# @cross_origin(origins="http://127.0.0.1:3000", supports_credentials=True)
 def update_order_status():
     data = request.get_json()
     order_id = data.get('order_id')
